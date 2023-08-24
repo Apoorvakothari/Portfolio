@@ -20,9 +20,10 @@ export const date = async (args: string[]): Promise<string> => {
 };
 
 export const gui = async (args: string[]): Promise<string> => {
-  window.open('https://m4tt72.com', '_self');
+  // window.open('', '_self');
 
-  return 'Opening GUI version...';
+  // return 'Opening GUI version...';
+  return 'Coming soon...';
 };
 
 export const email = async (args: string[]): Promise<string> => {
@@ -53,7 +54,7 @@ export const sudo = async (args?: string[]): Promise<string> => {
 
 export const repo = async (args?: string[]): Promise<string> => {
   setTimeout(function () {
-    window.open('https://github.com/m4tt72/terminal', '_blank');
+    window.open('https://github.com/Apoorvakothari/', '_blank');
   }, 1000);
 
   return 'Opening repository...';
