@@ -16,9 +16,9 @@ G'day! I’m Apoorva Kothari.
 I'm a self-taught Front-end developer and a college student currently pursuing my Bachelor's degree in Information Technology from Indian Institute of Information Technology, Lucknow. As someone who believes in the power of knowledge and continuous learning, I am constantly seeking new opportunities to expand my skills and stay ahead of the curve in this rapidly evolving industry.
 
 Apart from developement, some things I like are
-    #Acting 
-    #Dacing
-    #Travelling
+  >Acting 
+  >Dacing
+  >Travelling
 
   `;
 
