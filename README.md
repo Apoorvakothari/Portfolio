@@ -53,7 +53,7 @@ Here's a sample of the `config.json` file:
     "github": "Apoorvakothari",
     "linkedin": "apoorva-kothari"
   },
-  "theme": "gruvboxdark" // list of themes available in themes.json
+  "theme": "gruvboxdark" 
 }
 ```
 
